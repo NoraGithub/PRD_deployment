@@ -1,0 +1,6209 @@
+﻿$axure.loadCurrentPage({
+  "url":"关键kpi.html",
+  "generationDate":new Date(1477632881594.79),
+  "isCanvasEnabled":false,
+  "variables":["hengping",
+"zhibiao"],
+  "page":{
+    "packageId":"26c652c2723e45cc8c046cc566cce000",
+    "type":"Axure:Page",
+    "name":"关键KPI",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+      "a":{
+}},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"9822766e62d04e68862497aadd7718e1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":600,
+              "y":41},
+            "size":{
+              "width":441,
+              "height":339}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"b587057466e0455aa500023afe2f4485",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":600,
+                  "y":41},
+                "size":{
+                  "width":441,
+                  "height":339}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8b1ea44c8d0848f8922e779d0c1fc73b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":600,
+              "y":379},
+            "size":{
+              "width":129,
+              "height":41}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"2ed9a49ff61d45379b59474da04bbbcf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":600,
+                  "y":379},
+                "size":{
+                  "width":129,
+                  "height":41}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"6071c46c05334f3fb0b54d8b06705913",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "size":{
+              "width":380,
+              "height":800},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"676de500f9cf43f4bb96cbf7653b1900",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "size":{
+                  "width":380,
+                  "height":800},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/流程图/u0.png"}},
+{
+          "id":"1e85b76eedbe4c3a85e0375aaee180d2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold Oblique', '微软雅黑'",
+            "fontSize":"12px",
+            "fontWeight":"700",
+            "fontStyle":"oblique",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF333333},
+            "location":{
+              "x":566,
+              "y":100},
+            "size":{
+              "width":24,
+              "height":24},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF333333}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"fe62db27ce734de29ffe88f69ce23b48",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold Oblique', '微软雅黑'",
+                "fontSize":"12px",
+                "fontWeight":"700",
+                "fontStyle":"oblique",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF333333},
+                "location":{
+                  "x":566,
+                  "y":100},
+                "size":{
+                  "width":24,
+                  "height":24},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF333333}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/说明方式/u2.png"}},
+{
+          "id":"d2ac5dffbdb446539bf161763e265239",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold Oblique', '微软雅黑'",
+            "fontSize":"12px",
+            "fontWeight":"700",
+            "fontStyle":"oblique",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF333333},
+            "location":{
+              "x":566,
+              "y":41},
+            "size":{
+              "width":24,
+              "height":24},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF333333}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"7164f0e79f2a436f97bb2ec7e3a81a9a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold Oblique', '微软雅黑'",
+                "fontSize":"12px",
+                "fontWeight":"700",
+                "fontStyle":"oblique",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF333333},
+                "location":{
+                  "x":566,
+                  "y":41},
+                "size":{
+                  "width":24,
+                  "height":24},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF333333}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/说明方式/u2.png"}},
+{
+          "id":"a64c84abbaa94ee1aa606e7dd12f8ee2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold Oblique', '微软雅黑'",
+            "fontSize":"12px",
+            "fontWeight":"700",
+            "fontStyle":"oblique",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF333333},
+            "location":{
+              "x":566,
+              "y":167},
+            "size":{
+              "width":24,
+              "height":24},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF333333}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"8f91a0a5a5d04e11bef35845fef9febf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold Oblique', '微软雅黑'",
+                "fontSize":"12px",
+                "fontWeight":"700",
+                "fontStyle":"oblique",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF333333},
+                "location":{
+                  "x":566,
+                  "y":167},
+                "size":{
+                  "width":24,
+                  "height":24},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF333333}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/说明方式/u2.png"}},
+{
+          "id":"6fbe5375342241ef9cc6e4b6ccfab7e9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold Oblique', '微软雅黑'",
+            "fontSize":"12px",
+            "fontWeight":"700",
+            "fontStyle":"oblique",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF333333},
+            "location":{
+              "x":566,
+              "y":246},
+            "size":{
+              "width":24,
+              "height":24},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF333333}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"44964dfa35f346d1a8df755c39050b6b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold Oblique', '微软雅黑'",
+                "fontSize":"12px",
+                "fontWeight":"700",
+                "fontStyle":"oblique",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF333333},
+                "location":{
+                  "x":566,
+                  "y":246},
+                "size":{
+                  "width":24,
+                  "height":24},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF333333}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/说明方式/u2.png"}},
+{
+          "id":"734465014eee452ba6a2a89ade4d80a1",
+          "label":"",
+          "type":"verticalLine",
+          "styleType":"verticalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":550,
+              "y":0},
+            "size":{
+              "width":10,
+              "height":810},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF999999},
+            "linePattern":"dotted"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/关键kpi/u14_line.png",
+            "start~a":"resources/images/transparent.gif",
+            "end~a":"resources/images/transparent.gif",
+            "line~a":"images/关键kpi/u14_line.png",
+            "start~a":"resources/images/transparent.gif",
+            "end~a":"resources/images/transparent.gif",
+            "line~a":"images/关键kpi/u14_line.png"}},
+{
+          "id":"851f4e5253824741ab2cf207bb83a9a4",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":33,
+              "y":117}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "masterId":"2b6d5c6497a843388fc0a97e03a921e8"},
+{
+          "id":"c02fd3f9a4a745b184ed98b124acf8c3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"27px",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":38,
+              "y":213},
+            "size":{
+              "width":304,
+              "height":56}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"3591e9e05d464eb99306ca90732b47dd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"27px",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":38,
+                  "y":213},
+                "size":{
+                  "width":304,
+                  "height":56}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u169.png"}},
+{
+          "id":"24c7e1b4daf24d939f47f31b2c3dc8bd",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"27px",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":37,
+              "y":272},
+            "size":{
+              "width":304,
+              "height":56}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"71a32948acb94f9999ab10dabdca1b3f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"27px",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":37,
+                  "y":272},
+                "size":{
+                  "width":304,
+                  "height":56}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]},
+{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u169.png"}},
+{
+          "id":"9ac7f2ed78c84f899a09d86a665e46ac",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"27px",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":37,
+              "y":333},
+            "size":{
+              "width":304,
+              "height":56}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"54a2edb6f3da4ceeb4954c5685e2e34c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"27px",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":37,
+                  "y":333},
+                "size":{
+                  "width":304,
+                  "height":56}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u169.png"}},
+{
+          "id":"984e36e3a3b7458fb0d783abefdaac39",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"27px",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":38,
+              "y":393},
+            "size":{
+              "width":304,
+              "height":56}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"c0f95b952e4b4316b32c9d6e2786afdb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"27px",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":38,
+                  "y":393},
+                "size":{
+                  "width":304,
+                  "height":56}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u169.png"}},
+{
+          "id":"44038fcdfaa04da3b5c66109ababe56f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"26px",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":38,
+              "y":453},
+            "size":{
+              "width":304,
+              "height":56}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"a5373cb80d3a4c9f83e6de187ed7e22b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"26px",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":38,
+                  "y":453},
+                "size":{
+                  "width":304,
+                  "height":56}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u169.png"}},
+{
+          "id":"03b92a424fab4905895cc00c7ad47883",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"26px",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":38,
+              "y":516},
+            "size":{
+              "width":304,
+              "height":56}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"d1fc728d5dfd498c9f23e34d941c05a6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"26px",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":38,
+                  "y":516},
+                "size":{
+                  "width":304,
+                  "height":56}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u169.png"}},
+{
+          "id":"7b55cf575a844b1991c609889326e9c2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"27px",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":38,
+              "y":576},
+            "size":{
+              "width":304,
+              "height":56}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"95403a0574cf410996257f629000114d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"27px",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":38,
+                  "y":576},
+                "size":{
+                  "width":304,
+                  "height":56}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u169.png"}},
+{
+          "id":"0c3be02126394e17bd6e3a40303a2bd5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":151,
+              "y":217},
+            "size":{
+              "width":92,
+              "height":44},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"99b7a3b587154a68bbdda2f034abd14c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":151,
+                  "y":217},
+                "size":{
+                  "width":92,
+                  "height":44},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u183.png"}},
+{
+          "id":"e2428b6f33c346b2b6de9ffc2f3df13d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":291,
+              "y":217},
+            "size":{
+              "width":40,
+              "height":20},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"c7125b89d09b4635a60ba20cabb30221",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":291,
+                  "y":217},
+                "size":{
+                  "width":40,
+                  "height":20},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u185.png"}},
+{
+          "id":"d5b8b837e8e8482bbe7beef89570fa79",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":283,
+              "y":236},
+            "size":{
+              "width":58,
+              "height":25},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"fc33cd6b6f0b4dedabc69af5f7c7c857",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":283,
+                  "y":236},
+                "size":{
+                  "width":58,
+                  "height":25},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u187.png"}},
+{
+          "id":"45bfb4819e98429faac5dbab7db818f5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":163,
+              "y":279},
+            "size":{
+              "width":68,
+              "height":42},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"e6b94b0dc9034a7399095fb00d4efba1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":163,
+                  "y":279},
+                "size":{
+                  "width":68,
+                  "height":42},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u189.png"}},
+{
+          "id":"c69e23f4e4f24ff1be4f847f84026781",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":296,
+              "y":281},
+            "size":{
+              "width":31,
+              "height":20},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"9673545a5b1a457ab461323472c5a144",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":296,
+                  "y":281},
+                "size":{
+                  "width":31,
+                  "height":20},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u191.png"}},
+{
+          "id":"151c3d42637d401498c64bbcd78cd387",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":295,
+              "y":301},
+            "size":{
+              "width":33,
+              "height":23},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"9f4daa6788954d2a97e6a8f8b6a05a6d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":295,
+                  "y":301},
+                "size":{
+                  "width":33,
+                  "height":23},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u193.png"}},
+{
+          "id":"dee45ad4a10c415a8187bcc2d05dd3f3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":159,
+              "y":339},
+            "size":{
+              "width":76,
+              "height":42},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"d1eee6093eb94853a4c60a17eeaa51e1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":159,
+                  "y":339},
+                "size":{
+                  "width":76,
+                  "height":42},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u195.png"}},
+{
+          "id":"9bde92547a974a918209bea030870b35",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":298,
+              "y":362},
+            "size":{
+              "width":27,
+              "height":19},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"3116c12477e143058668c42471f6b6f6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":298,
+                  "y":362},
+                "size":{
+                  "width":27,
+                  "height":19},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u197.png"}},
+{
+          "id":"dd83c80bbf274ce8bf19a9e973b74447",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":296,
+              "y":340},
+            "size":{
+              "width":31,
+              "height":18},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"c63f24b61bc147ca804da57c05973c95",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":296,
+                  "y":340},
+                "size":{
+                  "width":31,
+                  "height":18},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u199.png"}},
+{
+          "id":"26cab945593b47c0aeba3f954bacc0c6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":162,
+              "y":400},
+            "size":{
+              "width":71,
+              "height":42},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"81bdecbb4fa44f4dba514e4a0ab67073",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":162,
+                  "y":400},
+                "size":{
+                  "width":71,
+                  "height":42},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u201.png"}},
+{
+          "id":"883eb63c1efe4e95a0d6afc163356988",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":298,
+              "y":401},
+            "size":{
+              "width":27,
+              "height":17},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"0f69813eb7304590a6bccef66fb7c866",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":298,
+                  "y":401},
+                "size":{
+                  "width":27,
+                  "height":17},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u203.png"}},
+{
+          "id":"6b2bc6917f614de18e727e9920e7f63a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":296,
+              "y":425},
+            "size":{
+              "width":31,
+              "height":14},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"f4f215d3b3984ec3a1078e096dad5edd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":296,
+                  "y":425},
+                "size":{
+                  "width":31,
+                  "height":14},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u205.png"}},
+{
+          "id":"2659ff45c5644a9fb7392c3dfd5de956",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"26px",
+            "location":{
+              "x":158,
+              "y":461},
+            "size":{
+              "width":77,
+              "height":42},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"67ee6d673c84450c9e30168ab6469739",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"26px",
+                "location":{
+                  "x":158,
+                  "y":461},
+                "size":{
+                  "width":77,
+                  "height":42},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u207.png"}},
+{
+          "id":"7a08e80de1b045788aee6b689c6c6f5d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":294,
+              "y":464},
+            "size":{
+              "width":34,
+              "height":20},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"a0b8e121307e4f2a844117b2da82721d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":294,
+                  "y":464},
+                "size":{
+                  "width":34,
+                  "height":20},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u209.png"}},
+{
+          "id":"15f11e89d00f464099c54382c7ee9c2c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":283,
+              "y":484},
+            "size":{
+              "width":58,
+              "height":21},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"14d3f215466245f7bcb9769e00c42573",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":283,
+                  "y":484},
+                "size":{
+                  "width":58,
+                  "height":21},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u211.png"}},
+{
+          "id":"767fab172b244c4994341d7849edb664",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"26px",
+            "location":{
+              "x":152,
+              "y":522},
+            "size":{
+              "width":90,
+              "height":42},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"73b2f89d65a740a6a04e3a19003019fa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"26px",
+                "location":{
+                  "x":152,
+                  "y":522},
+                "size":{
+                  "width":90,
+                  "height":42},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u213.png"}},
+{
+          "id":"664e786154f94e268fd7c6f63f610a53",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":294,
+              "y":523},
+            "size":{
+              "width":34,
+              "height":18},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"ee179b557d0e41eca8c00a9f1ba401e5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":294,
+                  "y":523},
+                "size":{
+                  "width":34,
+                  "height":18},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u215.png"}},
+{
+          "id":"e25bcb05ad284137ac3c681c60135416",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":283,
+              "y":552},
+            "size":{
+              "width":58,
+              "height":15},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"31409e6661bd494eb3968771eb4ab37c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":283,
+                  "y":552},
+                "size":{
+                  "width":58,
+                  "height":15},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u217.png"}},
+{
+          "id":"bd13a7814b794a83bf3a035646b715f9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":161,
+              "y":582},
+            "size":{
+              "width":72,
+              "height":42},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"1a21a502e8f949e09b8e0b06b4dc3192",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":161,
+                  "y":582},
+                "size":{
+                  "width":72,
+                  "height":42},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u219.png"}},
+{
+          "id":"4a1288c04c88455885383ad012f6de0e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":292,
+              "y":585},
+            "size":{
+              "width":37,
+              "height":18},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"d9685adc789f478b8e1958007bac334c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":292,
+                  "y":585},
+                "size":{
+                  "width":37,
+                  "height":18},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u221.png"}},
+{
+          "id":"bf39cf4453254ccc8e7bb2bdb8dfcd06",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":294,
+              "y":607},
+            "size":{
+              "width":35,
+              "height":17},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"dbd126292de74d779e4ca43e327add4c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":294,
+                  "y":607},
+                "size":{
+                  "width":35,
+                  "height":17},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u223.png"}},
+{
+          "id":"7f071c3a3b0b48a39eef170dc5d264eb",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":274,
+              "y":238},
+            "size":{
+              "width":21,
+              "height":20}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"19a6bc8058b346c4b78266068ef91975",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":274,
+                  "y":238},
+                "size":{
+                  "width":21,
+                  "height":20}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u225.png"}},
+{
+          "id":"9452f2bcb7e5414789a3c5b68c695f18",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":274,
+              "y":358},
+            "size":{
+              "width":21,
+              "height":20}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"67b713d2f5514f8b9f5308e4b67f1f4a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":274,
+                  "y":358},
+                "size":{
+                  "width":21,
+                  "height":20}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/流程图/u225.png"}},
+{
+          "id":"43fd9487d81e43f5b68d6d3f112df64a",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":274,
+              "y":281},
+            "size":{
+              "width":21,
+              "height":20}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"e00a3cc665d54c4487d44d87c5a4a230",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":274,
+                  "y":281},
+                "size":{
+                  "width":21,
+                  "height":20}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u225.png"}},
+{
+          "id":"b1dba660f6fe40658efaff34d3c0ac07",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":274,
+              "y":417},
+            "size":{
+              "width":21,
+              "height":20}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"9f2f811607a44bd6a1695276ae3accc0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":274,
+                  "y":417},
+                "size":{
+                  "width":21,
+                  "height":20}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u225.png"}},
+{
+          "id":"82a869b986024fc2857aa00678c57348",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":274,
+              "y":464},
+            "size":{
+              "width":21,
+              "height":20}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"135cac0a0b97469fb3a24c58c71717be",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":274,
+                  "y":464},
+                "size":{
+                  "width":21,
+                  "height":20}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u225.png"}},
+{
+          "id":"abb6d5e5d7ad42edb63fcf147bbf2c9d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":277,
+              "y":216},
+            "size":{
+              "width":16,
+              "height":18}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"1e805dbd7f2147f3b92815a7ba0e3a4e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":277,
+                  "y":216},
+                "size":{
+                  "width":16,
+                  "height":18}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u235.png"}},
+{
+          "id":"6a5e3395139c42d68501d6c05ccb1565",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":277,
+              "y":301},
+            "size":{
+              "width":16,
+              "height":18}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"2efebef5d47b47d6801b350f813082f1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":277,
+                  "y":301},
+                "size":{
+                  "width":16,
+                  "height":18}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u235.png"}},
+{
+          "id":"2f05a6db87d940a4b87db1bacade3e03",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":277,
+              "y":340},
+            "size":{
+              "width":16,
+              "height":18}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"5c4094f2f47e44f080d291463263972d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":277,
+                  "y":340},
+                "size":{
+                  "width":16,
+                  "height":18}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/流程图/u235.png"}},
+{
+          "id":"c6dc3e4054304afab61bd3867184668b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":277,
+              "y":399},
+            "size":{
+              "width":16,
+              "height":18}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"663c3a3a72c24615a87cff3c31723439",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":277,
+                  "y":399},
+                "size":{
+                  "width":16,
+                  "height":18}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u235.png"}},
+{
+          "id":"4c70fa291d0a49788294d438a81ff0ac",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":277,
+              "y":484},
+            "size":{
+              "width":16,
+              "height":18}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"e2dedc4a654c4d56892f3e28ba4d1e09",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":277,
+                  "y":484},
+                "size":{
+                  "width":16,
+                  "height":18}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u235.png"}},
+{
+          "id":"62b54d5ab6ec43d39c988368844c08f8",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":277,
+              "y":523},
+            "size":{
+              "width":16,
+              "height":18}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"a8b9e6b2a37a4f7e877245a322f4b53a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":277,
+                  "y":523},
+                "size":{
+                  "width":16,
+                  "height":18}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/流程图/u235.png"}},
+{
+          "id":"4ba49492c1f54503adc5428d1a4b63ff",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":277,
+              "y":585},
+            "size":{
+              "width":16,
+              "height":18}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"de1f774277574f5db93e28e312e5f548",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":277,
+                  "y":585},
+                "size":{
+                  "width":16,
+                  "height":18}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u235.png"}},
+{
+          "id":"7769e61e85a14731bebafb609fda5304",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":274,
+              "y":544},
+            "size":{
+              "width":21,
+              "height":20}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"0a09621b6c684e0b83b26ed741855870",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":274,
+                  "y":544},
+                "size":{
+                  "width":21,
+                  "height":20}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/流程图/u225.png"}},
+{
+          "id":"5e8e14021af24d968f82c1a72ec38227",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":274,
+              "y":601},
+            "size":{
+              "width":21,
+              "height":20}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"5b62289f85da47f9b6cdb3fd550d9b64",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":274,
+                  "y":601},
+                "size":{
+                  "width":21,
+                  "height":20}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u225.png"}},
+{
+          "id":"567dd3c8c678453b8856ffdb2eeacc73",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":250,
+              "y":237},
+            "size":{
+              "width":30,
+              "height":20},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"1eb5a4d87bd64e9c90d297720eb687ed",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":250,
+                  "y":237},
+                "size":{
+                  "width":30,
+                  "height":20},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u253.png"}},
+{
+          "id":"ac6346cdab8f46e4a81c03408ba175e1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":249,
+              "y":217},
+            "size":{
+              "width":30,
+              "height":20},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"ed3997992d7a4dcbab8d75933be160f3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":249,
+                  "y":217},
+                "size":{
+                  "width":30,
+                  "height":20},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u253.png"}},
+{
+          "id":"631b5604090f4b6db3aaff7d819038b4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":250,
+              "y":303},
+            "size":{
+              "width":30,
+              "height":20},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"c7c495d4f9794aa6a1af1b3df71b420f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":250,
+                  "y":303},
+                "size":{
+                  "width":30,
+                  "height":20},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u253.png"}},
+{
+          "id":"f8a4eeec315349d3a255cf972358c7c9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":249,
+              "y":283},
+            "size":{
+              "width":30,
+              "height":20},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"ca75e31812514c53ab0107bd59390697",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":249,
+                  "y":283},
+                "size":{
+                  "width":30,
+                  "height":20},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u253.png"}},
+{
+          "id":"1955ef90b76f4784bfbb41aa89560542",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":250,
+              "y":360},
+            "size":{
+              "width":30,
+              "height":20},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"8ddfbf5b903b41fe802de4ce5ed69ab9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":250,
+                  "y":360},
+                "size":{
+                  "width":30,
+                  "height":20},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u253.png"}},
+{
+          "id":"88334b3d6a6c410a8beccc3214ad5a7e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":249,
+              "y":340},
+            "size":{
+              "width":30,
+              "height":20},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"d8adba110f1a4421b972ee7f0672ea6a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":249,
+                  "y":340},
+                "size":{
+                  "width":30,
+                  "height":20},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u253.png"}},
+{
+          "id":"a3610ded3cce4306982b2683d1691322",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":249,
+              "y":419},
+            "size":{
+              "width":30,
+              "height":20},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"9b7fa8d3c5d94ae981c70f4121b711f8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":249,
+                  "y":419},
+                "size":{
+                  "width":30,
+                  "height":20},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u253.png"}},
+{
+          "id":"67b525a651474801907909ff7d0f2875",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":248,
+              "y":399},
+            "size":{
+              "width":30,
+              "height":20},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"08d31447512e4198abca38b53006d98c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":248,
+                  "y":399},
+                "size":{
+                  "width":30,
+                  "height":20},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u253.png"}},
+{
+          "id":"25c2f3a5fb814178be67729149ce4a42",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":249,
+              "y":486},
+            "size":{
+              "width":30,
+              "height":20},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"cdf5d917643c41aabbf1f7902e60112a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":249,
+                  "y":486},
+                "size":{
+                  "width":30,
+                  "height":20},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u253.png"}},
+{
+          "id":"f41405e236a044e3a57d38ef76faa56c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":248,
+              "y":466},
+            "size":{
+              "width":30,
+              "height":20},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"105aba88ab1d4be7962393e48e1b67ba",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":248,
+                  "y":466},
+                "size":{
+                  "width":30,
+                  "height":20},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u253.png"}},
+{
+          "id":"031a617b2e694f6bb5d44c32af979efb",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":249,
+              "y":545},
+            "size":{
+              "width":30,
+              "height":20},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"75da49d86657424e9589bd704f99e9ad",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":249,
+                  "y":545},
+                "size":{
+                  "width":30,
+                  "height":20},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u253.png"}},
+{
+          "id":"dbf1fba0d20840b1b86e1a684a462212",
+          "label":"paragraph",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF2087FC,
+              "opacity":1},
+            "location":{
+              "x":64,
+              "y":142},
+            "size":{
+              "width":39,
+              "height":21},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"980758e7190345f1a3ed7ce31c9bec66",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF2087FC,
+                  "opacity":1},
+                "location":{
+                  "x":64,
+                  "y":142},
+                "size":{
+                  "width":39,
+                  "height":21},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b8883a69b66f4dddb75c48dfb6bdb391",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":248,
+              "y":525},
+            "size":{
+              "width":30,
+              "height":20},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"15fa381bc7e447b3bf6a0e2cc886a033",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":248,
+                  "y":525},
+                "size":{
+                  "width":30,
+                  "height":20},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u253.png"}},
+{
+          "id":"514e6c56200949ee87e0002987f68634",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":248,
+              "y":606},
+            "size":{
+              "width":30,
+              "height":20},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"80ead15e12bd4545811f38e6d3114889",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":248,
+                  "y":606},
+                "size":{
+                  "width":30,
+                  "height":20},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u253.png"}},
+{
+          "id":"cf140a9687174b459c098c4af9b2522b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":247,
+              "y":585},
+            "size":{
+              "width":30,
+              "height":20},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"759e1ad18d3f45988bf51b482622e0c8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":247,
+                  "y":585},
+                "size":{
+                  "width":30,
+                  "height":20},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set value of hengping equal to &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"hengping"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set value of zhibiao equal to &quot;KPI&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"zhibiao"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"KPI",
+                                "stos":[]}]}]}},
+{
+                      "action":"linkWindow",
+                      "description":"Open 横竖屏 in New Window/Tab",
+                      "target":{
+                        "targetType":"page",
+                        "url":"横竖屏.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/流程图/u253.png"}},
+{
+          "id":"7ac4008c87874c29b870e3df8b2eab5b",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":43,
+              "y":141},
+            "size":{
+              "width":60,
+              "height":22}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 启动页 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"启动页.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"ebb23f87aaaf412aafccf88c6112ff19",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold Oblique', '微软雅黑'",
+            "fontSize":"12px",
+            "fontWeight":"700",
+            "fontStyle":"oblique",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF333333},
+            "location":{
+              "x":121,
+              "y":213},
+            "size":{
+              "width":24,
+              "height":24},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF333333}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"0ac206e20ea340e9b8d78e0dcf4874f8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold Oblique', '微软雅黑'",
+                "fontSize":"12px",
+                "fontWeight":"700",
+                "fontStyle":"oblique",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF333333},
+                "location":{
+                  "x":121,
+                  "y":213},
+                "size":{
+                  "width":24,
+                  "height":24},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF333333}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/说明方式/u2.png"}},
+{
+          "id":"75443977b10d459ab7bebeef219a5e07",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold Oblique', '微软雅黑'",
+            "fontSize":"12px",
+            "fontWeight":"700",
+            "fontStyle":"oblique",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF333333},
+            "location":{
+              "x":132,
+              "y":633},
+            "size":{
+              "width":24,
+              "height":24},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF333333}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"dd803bb0764d44b0b1678a86718546e6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold Oblique', '微软雅黑'",
+                "fontSize":"12px",
+                "fontWeight":"700",
+                "fontStyle":"oblique",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF333333},
+                "location":{
+                  "x":132,
+                  "y":633},
+                "size":{
+                  "width":24,
+                  "height":24},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF333333}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/说明方式/u2.png"}},
+{
+          "id":"5377a095e6fa4574b96e35ca2154e24f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold Oblique', '微软雅黑'",
+            "fontSize":"12px",
+            "fontWeight":"700",
+            "fontStyle":"oblique",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF333333},
+            "location":{
+              "x":331,
+              "y":202},
+            "size":{
+              "width":24,
+              "height":24},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF333333}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"126fa83b62d34f55bc466f21250ba1ac",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold Oblique', '微软雅黑'",
+                "fontSize":"12px",
+                "fontWeight":"700",
+                "fontStyle":"oblique",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF333333},
+                "location":{
+                  "x":331,
+                  "y":202},
+                "size":{
+                  "width":24,
+                  "height":24},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF333333}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/说明方式/u2.png"}},
+{
+          "id":"8f3a341e9a8649ab84e09f1bf64d1e58",
+          "label":"text - h2",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"21px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "underline":false,
+            "horizontalAlignment":"left",
+            "verticalAlignment":"top",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "lineSpacing":"0px",
+            "stateStyles":{
+},
+            "opacity":"1",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "textShadow":{
+              "on":false,
+              "offsetX":1,
+              "offsetY":1,
+              "blurRadius":5,
+              "color":{
+                "r":0,
+                "g":0,
+                "b":0,
+                "a":0.647058823529412}},
+            "paddingTop":"0",
+            "paddingBottom":"0",
+            "location":{
+              "x":151,
+              "y":138},
+            "size":{
+              "width":77,
+              "height":25},
+            "visible":true,
+            "rotation":"0",
+            "textRotation":"0",
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "linePattern":"solid",
+            "cornerRadiusTopLeft":"0",
+            "outerShadow":{
+              "on":false,
+              "offsetX":5,
+              "offsetY":5,
+              "blurRadius":5,
+              "color":{
+                "r":0,
+                "g":0,
+                "b":0,
+                "a":0.349019607843137}}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"1889b4450f64432a81e4bc17dd2b74f8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"21px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "underline":false,
+                "horizontalAlignment":"left",
+                "verticalAlignment":"top",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "lineSpacing":"0px",
+                "stateStyles":{
+},
+                "opacity":"1",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "textShadow":{
+                  "on":false,
+                  "offsetX":1,
+                  "offsetY":1,
+                  "blurRadius":5,
+                  "color":{
+                    "r":0,
+                    "g":0,
+                    "b":0,
+                    "a":0.647058823529412}},
+                "paddingTop":"0",
+                "paddingBottom":"0",
+                "location":{
+                  "x":151,
+                  "y":138},
+                "size":{
+                  "width":77,
+                  "height":25},
+                "visible":true,
+                "rotation":"0",
+                "textRotation":"0",
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "linePattern":"solid",
+                "cornerRadiusTopLeft":"0",
+                "outerShadow":{
+                  "on":false,
+                  "offsetX":5,
+                  "offsetY":5,
+                  "blurRadius":5,
+                  "color":{
+                    "r":0,
+                    "g":0,
+                    "b":0,
+                    "a":0.349019607843137}}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"5802629995894ce48a3f523bf5aa4bcd",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF009DD9},
+            "location":{
+              "x":33,
+              "y":643},
+            "size":{
+              "width":80,
+              "height":49}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"f2211b5aedd341cdaa15c22412635889",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF009DD9},
+                "location":{
+                  "x":33,
+                  "y":643},
+                "size":{
+                  "width":80,
+                  "height":49}},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"images/流程图/u292.png"}},
+{
+          "id":"d86dbc3407984e4c86576d34a8e10e49",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "verticalAlignment":"middle",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":30,
+              "y":658},
+            "size":{
+              "width":80,
+              "height":21},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"753337cce7fa42cbb414aa20371aaf6a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":30,
+                  "y":658},
+                "size":{
+                  "width":80,
+                  "height":21},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 关键KPI in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"关键kpi.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"9b4100497a8744709a9a600ab4b5f81d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontSize":"16px",
+            "fontWeight":"700",
+            "horizontalAlignment":"center",
+            "verticalAlignment":"middle",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":270,
+              "y":657},
+            "size":{
+              "width":80,
+              "height":21},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"5f007da10fc346e9924127c8c5c3ce88",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontSize":"16px",
+                "fontWeight":"700",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":270,
+                  "y":657},
+                "size":{
+                  "width":80,
+                  "height":21},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"3e9a65abff474c55acefbaf004456ddb",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":190,
+              "y":658},
+            "size":{
+              "width":80,
+              "height":21},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"b4fe4005f9b54f09a04078cdbc6bded8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":190,
+                  "y":658},
+                "size":{
+                  "width":80,
+                  "height":21},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 事业部运营 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"事业部运营.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"907f9e94148c467cbfdba793c07c0309",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "verticalAlignment":"middle",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":110,
+              "y":658},
+            "size":{
+              "width":80,
+              "height":21},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "objects":[{
+              "id":"ecbac33238744032ad7fd862f0ecd2e5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":110,
+                  "y":658},
+                "size":{
+                  "width":80,
+                  "height":21},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+                "a":{
+}}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 关键KPI in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"关键kpi.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+    "2b6d5c6497a843388fc0a97e03a921e8":{
+      "packageId":"2b6d5c6497a843388fc0a97e03a921e8",
+      "type":"Axure:Master",
+      "name":"竖屏背景",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"Applied Font",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+        "a":{
+}},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"68bddad27e9d4ab7b0d76c3569874664",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "size":{
+                "width":320,
+                "height":59},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFF000000}},
+            "adaptiveStyles":{
+              "a":{
+}},
+            "objects":[{
+                "id":"a95b2efa91134da0932ff4b555f1f020",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "size":{
+                    "width":320,
+                    "height":59},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFF000000}},
+                "adaptiveStyles":{
+                  "a":{
+}}}],
+            "images":{
+              "normal~":"images/流程图/u161.png"}},
+{
+            "id":"fc34588644c34305a27a7a818cc00237",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":11,
+                "y":26},
+              "size":{
+                "width":12,
+                "height":20},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFF000000}},
+            "adaptiveStyles":{
+              "a":{
+}},
+            "objects":[{
+                "id":"d71cfcb457784bf0bdf18355d93e8d49",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":11,
+                    "y":26},
+                  "size":{
+                    "width":12,
+                    "height":20},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFF000000}},
+                "adaptiveStyles":{
+                  "a":{
+}}}],
+            "images":{
+              "normal~":"images/流程图/u163.png"}},
+{
+            "id":"447400486f9f4878a07a22b8c40db711",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":5,
+                "y":0},
+              "size":{
+                "width":308,
+                "height":13},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFF000000}},
+            "adaptiveStyles":{
+              "a":{
+}},
+            "objects":[{
+                "id":"264bd97f37b44974ab680a79cfda4fa4",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":5,
+                    "y":0},
+                  "size":{
+                    "width":308,
+                    "height":13},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFF000000}},
+                "adaptiveStyles":{
+                  "a":{
+}}}],
+            "images":{
+              "normal~":"images/流程图/u165.png"}},
+{
+            "id":"b40671794831462b850fcef3126f3963",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":0,
+                "y":525},
+              "size":{
+                "width":320,
+                "height":49},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFF000000}},
+            "adaptiveStyles":{
+              "a":{
+}},
+            "objects":[{
+                "id":"513794cb4b674ecf83f780ed62572edf",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":0,
+                    "y":525},
+                  "size":{
+                    "width":320,
+                    "height":49},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFF000000}},
+                "adaptiveStyles":{
+                  "a":{
+}}}],
+            "images":{
+              "normal~":"images/流程图/u167.png"}}]}}},
+  "objectPaths":{
+    "9822766e62d04e68862497aadd7718e1":{
+      "scriptId":"u0"},
+    "b587057466e0455aa500023afe2f4485":{
+      "scriptId":"u1"},
+    "8b1ea44c8d0848f8922e779d0c1fc73b":{
+      "scriptId":"u2"},
+    "2ed9a49ff61d45379b59474da04bbbcf":{
+      "scriptId":"u3"},
+    "6071c46c05334f3fb0b54d8b06705913":{
+      "scriptId":"u4"},
+    "676de500f9cf43f4bb96cbf7653b1900":{
+      "scriptId":"u5"},
+    "1e85b76eedbe4c3a85e0375aaee180d2":{
+      "scriptId":"u6"},
+    "fe62db27ce734de29ffe88f69ce23b48":{
+      "scriptId":"u7"},
+    "d2ac5dffbdb446539bf161763e265239":{
+      "scriptId":"u8"},
+    "7164f0e79f2a436f97bb2ec7e3a81a9a":{
+      "scriptId":"u9"},
+    "a64c84abbaa94ee1aa606e7dd12f8ee2":{
+      "scriptId":"u10"},
+    "8f91a0a5a5d04e11bef35845fef9febf":{
+      "scriptId":"u11"},
+    "6fbe5375342241ef9cc6e4b6ccfab7e9":{
+      "scriptId":"u12"},
+    "44964dfa35f346d1a8df755c39050b6b":{
+      "scriptId":"u13"},
+    "734465014eee452ba6a2a89ade4d80a1":{
+      "scriptId":"u14"},
+    "851f4e5253824741ab2cf207bb83a9a4":{
+      "scriptId":"u15",
+      "68bddad27e9d4ab7b0d76c3569874664":{
+        "scriptId":"u16"},
+      "a95b2efa91134da0932ff4b555f1f020":{
+        "scriptId":"u17"},
+      "fc34588644c34305a27a7a818cc00237":{
+        "scriptId":"u18"},
+      "d71cfcb457784bf0bdf18355d93e8d49":{
+        "scriptId":"u19"},
+      "447400486f9f4878a07a22b8c40db711":{
+        "scriptId":"u20"},
+      "264bd97f37b44974ab680a79cfda4fa4":{
+        "scriptId":"u21"},
+      "b40671794831462b850fcef3126f3963":{
+        "scriptId":"u22"},
+      "513794cb4b674ecf83f780ed62572edf":{
+        "scriptId":"u23"}},
+    "c02fd3f9a4a745b184ed98b124acf8c3":{
+      "scriptId":"u24"},
+    "3591e9e05d464eb99306ca90732b47dd":{
+      "scriptId":"u25"},
+    "24c7e1b4daf24d939f47f31b2c3dc8bd":{
+      "scriptId":"u26"},
+    "71a32948acb94f9999ab10dabdca1b3f":{
+      "scriptId":"u27"},
+    "9ac7f2ed78c84f899a09d86a665e46ac":{
+      "scriptId":"u28"},
+    "54a2edb6f3da4ceeb4954c5685e2e34c":{
+      "scriptId":"u29"},
+    "984e36e3a3b7458fb0d783abefdaac39":{
+      "scriptId":"u30"},
+    "c0f95b952e4b4316b32c9d6e2786afdb":{
+      "scriptId":"u31"},
+    "44038fcdfaa04da3b5c66109ababe56f":{
+      "scriptId":"u32"},
+    "a5373cb80d3a4c9f83e6de187ed7e22b":{
+      "scriptId":"u33"},
+    "03b92a424fab4905895cc00c7ad47883":{
+      "scriptId":"u34"},
+    "d1fc728d5dfd498c9f23e34d941c05a6":{
+      "scriptId":"u35"},
+    "7b55cf575a844b1991c609889326e9c2":{
+      "scriptId":"u36"},
+    "95403a0574cf410996257f629000114d":{
+      "scriptId":"u37"},
+    "0c3be02126394e17bd6e3a40303a2bd5":{
+      "scriptId":"u38"},
+    "99b7a3b587154a68bbdda2f034abd14c":{
+      "scriptId":"u39"},
+    "e2428b6f33c346b2b6de9ffc2f3df13d":{
+      "scriptId":"u40"},
+    "c7125b89d09b4635a60ba20cabb30221":{
+      "scriptId":"u41"},
+    "d5b8b837e8e8482bbe7beef89570fa79":{
+      "scriptId":"u42"},
+    "fc33cd6b6f0b4dedabc69af5f7c7c857":{
+      "scriptId":"u43"},
+    "45bfb4819e98429faac5dbab7db818f5":{
+      "scriptId":"u44"},
+    "e6b94b0dc9034a7399095fb00d4efba1":{
+      "scriptId":"u45"},
+    "c69e23f4e4f24ff1be4f847f84026781":{
+      "scriptId":"u46"},
+    "9673545a5b1a457ab461323472c5a144":{
+      "scriptId":"u47"},
+    "151c3d42637d401498c64bbcd78cd387":{
+      "scriptId":"u48"},
+    "9f4daa6788954d2a97e6a8f8b6a05a6d":{
+      "scriptId":"u49"},
+    "dee45ad4a10c415a8187bcc2d05dd3f3":{
+      "scriptId":"u50"},
+    "d1eee6093eb94853a4c60a17eeaa51e1":{
+      "scriptId":"u51"},
+    "9bde92547a974a918209bea030870b35":{
+      "scriptId":"u52"},
+    "3116c12477e143058668c42471f6b6f6":{
+      "scriptId":"u53"},
+    "dd83c80bbf274ce8bf19a9e973b74447":{
+      "scriptId":"u54"},
+    "c63f24b61bc147ca804da57c05973c95":{
+      "scriptId":"u55"},
+    "26cab945593b47c0aeba3f954bacc0c6":{
+      "scriptId":"u56"},
+    "81bdecbb4fa44f4dba514e4a0ab67073":{
+      "scriptId":"u57"},
+    "883eb63c1efe4e95a0d6afc163356988":{
+      "scriptId":"u58"},
+    "0f69813eb7304590a6bccef66fb7c866":{
+      "scriptId":"u59"},
+    "6b2bc6917f614de18e727e9920e7f63a":{
+      "scriptId":"u60"},
+    "f4f215d3b3984ec3a1078e096dad5edd":{
+      "scriptId":"u61"},
+    "2659ff45c5644a9fb7392c3dfd5de956":{
+      "scriptId":"u62"},
+    "67ee6d673c84450c9e30168ab6469739":{
+      "scriptId":"u63"},
+    "7a08e80de1b045788aee6b689c6c6f5d":{
+      "scriptId":"u64"},
+    "a0b8e121307e4f2a844117b2da82721d":{
+      "scriptId":"u65"},
+    "15f11e89d00f464099c54382c7ee9c2c":{
+      "scriptId":"u66"},
+    "14d3f215466245f7bcb9769e00c42573":{
+      "scriptId":"u67"},
+    "767fab172b244c4994341d7849edb664":{
+      "scriptId":"u68"},
+    "73b2f89d65a740a6a04e3a19003019fa":{
+      "scriptId":"u69"},
+    "664e786154f94e268fd7c6f63f610a53":{
+      "scriptId":"u70"},
+    "ee179b557d0e41eca8c00a9f1ba401e5":{
+      "scriptId":"u71"},
+    "e25bcb05ad284137ac3c681c60135416":{
+      "scriptId":"u72"},
+    "31409e6661bd494eb3968771eb4ab37c":{
+      "scriptId":"u73"},
+    "bd13a7814b794a83bf3a035646b715f9":{
+      "scriptId":"u74"},
+    "1a21a502e8f949e09b8e0b06b4dc3192":{
+      "scriptId":"u75"},
+    "4a1288c04c88455885383ad012f6de0e":{
+      "scriptId":"u76"},
+    "d9685adc789f478b8e1958007bac334c":{
+      "scriptId":"u77"},
+    "bf39cf4453254ccc8e7bb2bdb8dfcd06":{
+      "scriptId":"u78"},
+    "dbd126292de74d779e4ca43e327add4c":{
+      "scriptId":"u79"},
+    "7f071c3a3b0b48a39eef170dc5d264eb":{
+      "scriptId":"u80"},
+    "19a6bc8058b346c4b78266068ef91975":{
+      "scriptId":"u81"},
+    "9452f2bcb7e5414789a3c5b68c695f18":{
+      "scriptId":"u82"},
+    "67b713d2f5514f8b9f5308e4b67f1f4a":{
+      "scriptId":"u83"},
+    "43fd9487d81e43f5b68d6d3f112df64a":{
+      "scriptId":"u84"},
+    "e00a3cc665d54c4487d44d87c5a4a230":{
+      "scriptId":"u85"},
+    "b1dba660f6fe40658efaff34d3c0ac07":{
+      "scriptId":"u86"},
+    "9f2f811607a44bd6a1695276ae3accc0":{
+      "scriptId":"u87"},
+    "82a869b986024fc2857aa00678c57348":{
+      "scriptId":"u88"},
+    "135cac0a0b97469fb3a24c58c71717be":{
+      "scriptId":"u89"},
+    "abb6d5e5d7ad42edb63fcf147bbf2c9d":{
+      "scriptId":"u90"},
+    "1e805dbd7f2147f3b92815a7ba0e3a4e":{
+      "scriptId":"u91"},
+    "6a5e3395139c42d68501d6c05ccb1565":{
+      "scriptId":"u92"},
+    "2efebef5d47b47d6801b350f813082f1":{
+      "scriptId":"u93"},
+    "2f05a6db87d940a4b87db1bacade3e03":{
+      "scriptId":"u94"},
+    "5c4094f2f47e44f080d291463263972d":{
+      "scriptId":"u95"},
+    "c6dc3e4054304afab61bd3867184668b":{
+      "scriptId":"u96"},
+    "663c3a3a72c24615a87cff3c31723439":{
+      "scriptId":"u97"},
+    "4c70fa291d0a49788294d438a81ff0ac":{
+      "scriptId":"u98"},
+    "e2dedc4a654c4d56892f3e28ba4d1e09":{
+      "scriptId":"u99"},
+    "62b54d5ab6ec43d39c988368844c08f8":{
+      "scriptId":"u100"},
+    "a8b9e6b2a37a4f7e877245a322f4b53a":{
+      "scriptId":"u101"},
+    "4ba49492c1f54503adc5428d1a4b63ff":{
+      "scriptId":"u102"},
+    "de1f774277574f5db93e28e312e5f548":{
+      "scriptId":"u103"},
+    "7769e61e85a14731bebafb609fda5304":{
+      "scriptId":"u104"},
+    "0a09621b6c684e0b83b26ed741855870":{
+      "scriptId":"u105"},
+    "5e8e14021af24d968f82c1a72ec38227":{
+      "scriptId":"u106"},
+    "5b62289f85da47f9b6cdb3fd550d9b64":{
+      "scriptId":"u107"},
+    "567dd3c8c678453b8856ffdb2eeacc73":{
+      "scriptId":"u108"},
+    "1eb5a4d87bd64e9c90d297720eb687ed":{
+      "scriptId":"u109"},
+    "ac6346cdab8f46e4a81c03408ba175e1":{
+      "scriptId":"u110"},
+    "ed3997992d7a4dcbab8d75933be160f3":{
+      "scriptId":"u111"},
+    "631b5604090f4b6db3aaff7d819038b4":{
+      "scriptId":"u112"},
+    "c7c495d4f9794aa6a1af1b3df71b420f":{
+      "scriptId":"u113"},
+    "f8a4eeec315349d3a255cf972358c7c9":{
+      "scriptId":"u114"},
+    "ca75e31812514c53ab0107bd59390697":{
+      "scriptId":"u115"},
+    "1955ef90b76f4784bfbb41aa89560542":{
+      "scriptId":"u116"},
+    "8ddfbf5b903b41fe802de4ce5ed69ab9":{
+      "scriptId":"u117"},
+    "88334b3d6a6c410a8beccc3214ad5a7e":{
+      "scriptId":"u118"},
+    "d8adba110f1a4421b972ee7f0672ea6a":{
+      "scriptId":"u119"},
+    "a3610ded3cce4306982b2683d1691322":{
+      "scriptId":"u120"},
+    "9b7fa8d3c5d94ae981c70f4121b711f8":{
+      "scriptId":"u121"},
+    "67b525a651474801907909ff7d0f2875":{
+      "scriptId":"u122"},
+    "08d31447512e4198abca38b53006d98c":{
+      "scriptId":"u123"},
+    "25c2f3a5fb814178be67729149ce4a42":{
+      "scriptId":"u124"},
+    "cdf5d917643c41aabbf1f7902e60112a":{
+      "scriptId":"u125"},
+    "f41405e236a044e3a57d38ef76faa56c":{
+      "scriptId":"u126"},
+    "105aba88ab1d4be7962393e48e1b67ba":{
+      "scriptId":"u127"},
+    "031a617b2e694f6bb5d44c32af979efb":{
+      "scriptId":"u128"},
+    "75da49d86657424e9589bd704f99e9ad":{
+      "scriptId":"u129"},
+    "dbf1fba0d20840b1b86e1a684a462212":{
+      "scriptId":"u130"},
+    "980758e7190345f1a3ed7ce31c9bec66":{
+      "scriptId":"u131"},
+    "b8883a69b66f4dddb75c48dfb6bdb391":{
+      "scriptId":"u132"},
+    "15fa381bc7e447b3bf6a0e2cc886a033":{
+      "scriptId":"u133"},
+    "514e6c56200949ee87e0002987f68634":{
+      "scriptId":"u134"},
+    "80ead15e12bd4545811f38e6d3114889":{
+      "scriptId":"u135"},
+    "cf140a9687174b459c098c4af9b2522b":{
+      "scriptId":"u136"},
+    "759e1ad18d3f45988bf51b482622e0c8":{
+      "scriptId":"u137"},
+    "7ac4008c87874c29b870e3df8b2eab5b":{
+      "scriptId":"u138"},
+    "ebb23f87aaaf412aafccf88c6112ff19":{
+      "scriptId":"u139"},
+    "0ac206e20ea340e9b8d78e0dcf4874f8":{
+      "scriptId":"u140"},
+    "75443977b10d459ab7bebeef219a5e07":{
+      "scriptId":"u141"},
+    "dd803bb0764d44b0b1678a86718546e6":{
+      "scriptId":"u142"},
+    "5377a095e6fa4574b96e35ca2154e24f":{
+      "scriptId":"u143"},
+    "126fa83b62d34f55bc466f21250ba1ac":{
+      "scriptId":"u144"},
+    "8f3a341e9a8649ab84e09f1bf64d1e58":{
+      "scriptId":"u145"},
+    "1889b4450f64432a81e4bc17dd2b74f8":{
+      "scriptId":"u146"},
+    "5802629995894ce48a3f523bf5aa4bcd":{
+      "scriptId":"u147"},
+    "f2211b5aedd341cdaa15c22412635889":{
+      "scriptId":"u148"},
+    "d86dbc3407984e4c86576d34a8e10e49":{
+      "scriptId":"u149"},
+    "753337cce7fa42cbb414aa20371aaf6a":{
+      "scriptId":"u150"},
+    "9b4100497a8744709a9a600ab4b5f81d":{
+      "scriptId":"u151"},
+    "5f007da10fc346e9924127c8c5c3ce88":{
+      "scriptId":"u152"},
+    "3e9a65abff474c55acefbaf004456ddb":{
+      "scriptId":"u153"},
+    "b4fe4005f9b54f09a04078cdbc6bded8":{
+      "scriptId":"u154"},
+    "907f9e94148c467cbfdba793c07c0309":{
+      "scriptId":"u155"},
+    "ecbac33238744032ad7fd862f0ecd2e5":{
+      "scriptId":"u156"}}});

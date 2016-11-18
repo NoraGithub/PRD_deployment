@@ -1,0 +1,392 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:800px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:800px;
+  height:800px;
+  overflow:hidden;
+}
+#u0_state0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:800px;
+  height:800px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u0_state0_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:380px;
+  height:800px;
+}
+#u1_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:380px;
+  height:800px;
+}
+#u2 {
+  position:absolute;
+  left:2px;
+  top:392px;
+  width:376px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u3 {
+  position:absolute;
+  left:32px;
+  top:113px;
+  width:316px;
+  height:571px;
+}
+#u0_state1 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:800px;
+  height:800px;
+  visibility:hidden;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u0_state1_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u4 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:800px;
+  height:380px;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:800px;
+  height:380px;
+}
+#u5 {
+  position:absolute;
+  left:2px;
+  top:182px;
+  width:796px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u6 {
+  position:absolute;
+  left:114px;
+  top:27px;
+  width:571px;
+  height:316px;
+}
+#u7 {
+  position:absolute;
+  left:114px;
+  top:27px;
+  width:575px;
+  height:320px;
+  overflow:hidden;
+}
+#u7_state0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:575px;
+  height:320px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u7_state0_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u7_state1 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:575px;
+  height:320px;
+  visibility:hidden;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u7_state1_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u8 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:571px;
+  height:316px;
+}
+#u7_state2 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:575px;
+  height:320px;
+  visibility:hidden;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u7_state2_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u9 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:571px;
+  height:316px;
+}
+#u10 {
+  position:absolute;
+  left:114px;
+  top:28px;
+  width:575px;
+  height:320px;
+  overflow:hidden;
+}
+#u10_state0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:575px;
+  height:320px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u10_state0_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u10_state1 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:575px;
+  height:320px;
+  visibility:hidden;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u10_state1_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u11 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:571px;
+  height:316px;
+}
+#u10_state2 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:575px;
+  height:320px;
+  visibility:hidden;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u10_state2_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u12 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:571px;
+  height:316px;
+}
+#u10_state3 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:575px;
+  height:320px;
+  visibility:hidden;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u10_state3_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u13 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:571px;
+  height:316px;
+}
+body.a {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:800px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.a {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:800px;
+  height:800px;
+}
+#u1.a {
+}
+#u3.a {
+}
+#u4.a {
+}
+#u6.a {
+}
+#u7.a {
+  position:absolute;
+  left:114px;
+  top:27px;
+  width:575px;
+  height:320px;
+}
+#u8.a {
+}
+#u9.a {
+}
+#u7_state0.a {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:none;
+}
+#u7_state1.a {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:none;
+}
+#u7_state2.a {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:none;
+}
+#u10.a {
+  position:absolute;
+  left:114px;
+  top:28px;
+  width:575px;
+  height:320px;
+}
+#u11.a {
+}
+#u12.a {
+}
+#u13.a {
+}
+#u10_state0.a {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:none;
+}
+#u10_state1.a {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:none;
+}
+#u10_state2.a {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:none;
+}
+#u10_state3.a {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:none;
+}
+#u0_state0.a {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:none;
+}
+#u0_state1.a {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:none;
+}
